@@ -10,6 +10,11 @@
 
 WaterUp is a mobile application developed with Flutter that helps users track their daily hydration levels. Available on the App Store, it calculates the required water intake based on your personal data, offers a variety of beverage options, and provides insightful history features to monitor your progress.
 
+## App Store & Social Media
+
+- **Download on the App Store:** [WaterUp on the App Store](https://apps.apple.com/us/app/water-tracker-waterup/id1663081515?platform=iphone)
+- **Follow on Instagram:** [WaterUp on Instagram](https://www.instagram.com/waterup_app/)
+
 ## Project's Development
 
 This project is a collaborative effort developed by [@alqeren1](https://github.com/alqeren1) and [@enverenes](https://github.com/enverenes).
@@ -23,7 +28,6 @@ This project is a collaborative effort developed by [@alqeren1](https://github.c
 - [Technologies Used](#technologies-used)
 - [Installation & Setup](#installation--setup)
 - [Usage](#usage)
-- [App Store & Social Media](#app-store--social-media)
 - [License](#license)
 - [Contact](#contact)
 
@@ -80,10 +84,7 @@ WaterUp is designed to be intuitive:
 - Log your water and other beverage intakes throughout the day.
 - Monitor your progress with daily and weekly history charts.
 
-## App Store & Social Media
 
-- **Download on the App Store:** [WaterUp on the App Store](https://apps.apple.com/us/app/water-tracker-waterup/id1663081515?platform=iphone)
-- **Follow on Instagram:** [WaterUp on Instagram](https://www.instagram.com/waterup_app/)
 
 ## License
 
